@@ -36,8 +36,8 @@ main areas you should address:
 * `doc/` - The path that contains the documentation for the package.
 * `test/` - The path that contains the tests for the package.
 * `resources/` - The path that contains resources utilised by the package.  For example, HTML templates, CSS and images.
-* .gitignore - A file the indicates which files should be ignored by git.
-* .jshintrc - A file that provides configuration information for JSHint, that cover off most of the Dojo 2 linting
+* `.gitignore` - A file the indicates which files should be ignored by git.
+* `.jshintrc` - A file that provides configuration information for JSHint, that cover off most of the Dojo 2 linting
   requirements.
 
 ### README.md
@@ -136,7 +136,7 @@ All JavaScript code should provide inline documentation that is compatible with 
 
 [package10]: http://wiki.commonjs.org/wiki/Packages/1.0
 [package11]: http://wiki.commonjs.org/wiki/Packages/1.1
-[d2pacakges]: https://docs.google.com/document/d/17B7A0eGbBAYsuZTQCnMnQ-xNiuB5NVc4vKYJqp3a_CE/edit?usp=sharing
+[d2packages]: https://docs.google.com/document/d/17B7A0eGbBAYsuZTQCnMnQ-xNiuB5NVc4vKYJqp3a_CE/edit?usp=sharing
 [zip]: https://github.com/kitsonk/dojo2-boilerplate-package/archive/master.zip
 [markdown]: http://daringfireball.net/projects/markdown/
 [gfm]: https://help.github.com/articles/github-flavored-markdown

@@ -150,4 +150,4 @@ All JavaScript code should provide inline documentation that is compatible with 
 [jsdoc]: http://usejsdoc.org/
 [jsdocparse]: https://github.com/SitePen/js-doc-parse
 [volo]: http://volojs.org/
-[wiki]: /kitsonk/dojo2-boilerplate-package/wiki
+[wiki]: ../../wiki

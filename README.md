@@ -12,9 +12,10 @@ parts of the specification maybe omitted in this template).  It adds some additi
 be integrated into the Dojo 2 toolchain.  This includes items like documentation, tests and integration into the build
 system.
 
-Full documentation can be found in the [Dojo Toolkit 2.0 - Packages and Distributions][d2packages] document.  A package
-in Dojo 2 is typically one or more [AMD][] modules and associated resources that are then either built into a
-distribution or loaded by an application.
+Full documentation can be found in the [Dojo Toolkit 2.0 - Packages and Distributions][d2packages] document, although
+this repositories [wiki](wiki) contains most of the information and will continue to be enhanced .  A package in Dojo 2
+is typically one or more [AMD][] modules and associated resources that are then either built into a distribution or
+loaded by an application.
 
 ## Usage
 

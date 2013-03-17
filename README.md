@@ -13,7 +13,7 @@ be integrated into the Dojo 2 toolchain.  This includes items like documentation
 system.
 
 Full documentation can be found in the [Dojo Toolkit 2.0 - Packages and Distributions][d2packages] document, although
-this repositories [wiki](wiki) contains most of the information and will continue to be enhanced .  A package in Dojo 2
+this repositories [wiki][wiki] contains most of the information and will continue to be enhanced .  A package in Dojo 2
 is typically one or more [AMD][] modules and associated resources that are then either built into a distribution or
 loaded by an application.
 
@@ -150,3 +150,4 @@ All JavaScript code should provide inline documentation that is compatible with 
 [jsdoc]: http://usejsdoc.org/
 [jsdocparse]: https://github.com/SitePen/js-doc-parse
 [volo]: http://volojs.org/
+[wiki]: /kitsonk/dojo2-boilerplate-package/wiki

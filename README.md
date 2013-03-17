@@ -1,5 +1,7 @@
 # dojo2-boilerplate-package
 
+**DRAFT** This boilerplate is in *draft* format and is subject to change.
+
 This is the boilerplate (template) for Packages for Dojo 2.  This should be used as a starting point to build a
 package that can be easily integrated into a Dojo 2 based project.  In theory, following this template should allow
 you to build an AMD compatible package that is usable by

@@ -35,7 +35,7 @@ main areas you should address:
 * `package.js` - The file used by the Dojo Builder to build the package.
 * `LICENSE` - Identify the licensing for the package.
 * `CONTRIBUTING.md` - The contribution guidelines for the package.
-* `main.js` - The entry point file into the package.
+* `main.js` - The entry point file into the package, which can be changed in the `package.json`.
 * `doc/` - The path that contains the documentation for the package.
 * `test/` - The path that contains the tests for the package.
 * `resources/` - The path that contains resources utilised by the package.  For example, HTML templates, CSS and images.
@@ -90,9 +90,10 @@ displayed whenever anyone attempts to create a pull request against your reposit
 
 ### main.js
 
-Normally this is the main module of the package and could require other modules.  This can be overridden by changing the
+Normally this is the main module of the package and could require other modules.  This can be changed by changing the
 `main` property in the `package.json`, but most consumers of a package would expect this module to provide the "basic"
-functionality of the package.
+functionality of the package.  If it is more appropriate for your package to not have a "main" module, you must still
+point in the `package.json` to at least a file.
 
 ### doc/
 
